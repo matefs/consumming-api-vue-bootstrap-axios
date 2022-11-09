@@ -1,4 +1,4 @@
-# consume-api-vue-bootstrap-axios
+# Consumming api using vue, bootstrap css and axios
 
 ## Project setup
 ```
