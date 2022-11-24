@@ -20,7 +20,7 @@ yarn build
 yarn lint
 ```
 
-### Project image 
+## Project image 
 ![image](https://user-images.githubusercontent.com/30128774/200202065-69f3a7fe-19e4-427d-ae4b-0efe229af646.png)
 
 
